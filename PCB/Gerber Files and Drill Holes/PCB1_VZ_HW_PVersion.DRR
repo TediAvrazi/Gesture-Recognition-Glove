@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB1_VZ.PcbDoc   2022-04-29  21:15:31
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : PCB1_VZ_HW_PVersion-Plated.TXT
+ASCII Non-Plated RoundHoles File : PCB1_VZ_HW_PVersion-NonPlated.TXT
+EIA File   : PCB1_VZ_HW_PVersion.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             85        PTH        23.22inch (589.79mm)
+T2      28mil (0.711mm)                                           Round             4         PTH        3.75inch (95.15mm)
+T3      33mil (0.85mm)                                            Round             20        PTH        6.41inch (162.75mm)
+T4      35mil (0.9mm)                                             Round             5         PTH        0.40inch (10.16mm)
+T5      40mil (1.02mm)                                            Round             30        PTH        5.10inch (129.54mm)
+T6      118mil (3mm)                                              Round             3         PTH        4.33inch (109.98mm)
+T7      118mil (3mm)                                              Round             4         NPTH       4.66inch (118.41mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              151
+
+Total Processing Time (hh:mm:ss) : 00:00:00
